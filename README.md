@@ -8,6 +8,6 @@ I was able to effectively change the basic HTML tag elements and implement seman
 I still found some challenges in styling in the css portion of the assignment. My footer tag for the HTML and CSS file did not match up in the actual deployment of the webpage and it was positioned wrong
 
 ### Link to Assignment 
-https://github.com/Ishimstn/UNC_Bootcamp_HW_1/index.html
+https://github.com/Ishimstn/UNC_Bootcamp_HW_1/blob/main/index.html
 
 
